@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-      "description": "Test Addon",
-      "name": "Test Addon",
-      "uuid": "d89ca8f9-e078-49aa-9318-d94369a9d591",
+      "description": "You need to turn on the Beta API",
+      "name": "Whitelist",
+      "uuid": "63160a2c-c48e-471c-a44e-85aca26ca40c",
       "version": [ 1, 0, 0 ],
       "min_engine_version": [ 1, 21, 80 ]
     },
@@ -12,7 +12,7 @@
         "description": "",
         "type": "script",
         "language": "javascript",
-        "uuid": "572b794a-f2b8-4cff-b176-8113d1f09d72",
+        "uuid": "35c2eaa4-2714-47cd-83bc-9504133bfb8d",
         "version": [ 1, 0, 0 ],
         "entry": "scripts/main.js"
       }
